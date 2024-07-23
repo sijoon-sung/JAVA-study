@@ -142,4 +142,5 @@ double result = Math.ceil(5.3); // 6.0
 
 ---
 
-이 문서는 다양한 예제 코드를 통해 각 클래스의 사용법을 자세히 설명하며, Java 프로그래밍에서 자주 사용되는 기능들을 다룹니다.
+블로그 참고
+https://velog.io/@joon0404/11.1-java.lang-%ED%8C%A8%ED%82%A4%EC%A7%80
